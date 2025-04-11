@@ -1,0 +1,18 @@
+Proporciona una explicacion detallada en un archivo .txt
+de las acciones que realizarias al cocinar un huevo
+
+Solucion
+
+Busco el huevo 
+busco el sarten 
+prendo el fuego 
+le hecho aceite al sarten 
+pico cebolla y la sofrio
+abro el huevo
+lo hecho en una tazita
+si esta bueno prosigo de lo contrario lo cambio 
+espero 2 mins 
+le doy vuelta 
+espero otros 2 mins
+retiro el huevo del fuego 
+procedo a apagar el fuego
