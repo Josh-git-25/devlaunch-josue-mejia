@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Josh-git-25/devlaunch-josue-mejia/issues"
   },
-  "homepage": "https://github.com/Josh-git-25/devlaunch-josue-mejia#readme"
+  "homepage": "https://github.com/Josh-git-25/devlaunch-josue-mejia#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
